@@ -1,0 +1,1874 @@
+{
+    "value": [
+      {
+        "HotelId": "1",
+        "HotelName": "Stay-Kay City Hotel",
+        "Description": "This classic hotel is fully-refurbished and ideally located on the main commercial artery of the city in the heart of New York. A few minutes away is Times Square and the historic centre of the city, as well as other places of interest that make New York one of America's most attractive and cosmopolitan cities.",
+        "Description_fr": "Cet hôtel classique entièrement rénové est idéalement situé sur l'artère commerçante principale de la ville, au cœur de New York. À quelques minutes se trouvent Times Square et le centre historique de la ville, ainsi que d'autres lieux d'intérêt qui font de New York l'une des villes les plus attrayantes et cosmopolites d'Amérique.",
+        "Category": "Boutique",
+        "Tags": [ "view", "air conditioning", "concierge" ],
+        "ParkingIncluded": false,
+        "IsDeleted": false,
+        "LastRenovationDate": "2022-01-18T00:00:00Z",
+        "Rating": 3.60,
+        "Address": {
+          "StreetAddress": "677 5th Ave",
+          "City": "New York",
+          "StateProvince": "NY",
+          "PostalCode": "10022",
+          "Country": "USA"
+        },
+        "Location": {
+          "type": "Point",
+          "coordinates": [ -73.975403, 40.760586 ]
+        },
+        "Rooms": [
+          {
+            "Description": "Budget Room, 1 Queen Bed (Cityside)",
+            "Description_fr": "Chambre Économique, 1 grand lit (côté ville)",
+            "Type": "Budget Room",
+            "BaseRate": 96.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd" ]
+          },
+          {
+            "Description": "Budget Room, 1 King Bed (Mountain View)",
+            "Description_fr": "Chambre Économique, 1 très grand lit (Mountain View)",
+            "Type": "Budget Room",
+            "BaseRate": 80.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd", "jacuzzi tub" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Double Beds (City View)",
+            "Description_fr": "Chambre Deluxe, 2 lits doubles (vue ville)",
+            "Type": "Deluxe Room",
+            "BaseRate": 150.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "suite", "bathroom shower", "coffee maker" ]
+          },
+          {
+            "Description": "Standard Room, 1 King Bed (Amenities)",
+            "Description_fr": "Chambre Standard, 1 très grand lit (Services)",
+            "Type": "Standard Room",
+            "BaseRate": 110.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "Room Tags", "bathroom shower", "bathroom shower" ]
+          },
+          {
+            "Description": "Suite, 1 Queen Bed (Mountain View)",
+            "Description_fr": "Suite, 1 grand lit (vue sur la montagne)",
+            "Type": "Suite",
+            "BaseRate": 243.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "Room Tags" ]
+          },
+          {
+            "Description": "Suite, 2 Queen Beds (Mountain View)",
+            "Description_fr": "Suite, 2 grands lits (vue sur la montagne)",
+            "Type": "Suite",
+            "BaseRate": 229.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd" ]
+          },
+          {
+            "Description": "Budget Room, 1 King Bed (Waterfront View)",
+            "Description_fr": "Chambre Économique, 1 très grand lit (vue sur le front de mer)",
+            "Type": "Budget Room",
+            "BaseRate": 87.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "tv" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (Waterfront View)",
+            "Description_fr": "Suite, 1 très grand lit (vue sur le front de mer)",
+            "Type": "Suite",
+            "BaseRate": 262.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "vcr/dvd", "vcr/dvd" ]
+          },
+          {
+            "Description": "Suite, 2 Double Beds (Mountain View)",
+            "Description_fr": "Suite, 2 lits doubles (vue sur la montagne)",
+            "Type": "Suite",
+            "BaseRate": 248.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "coffee maker", "coffee maker", "coffee maker" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (Mountain View)",
+            "Description_fr": "Suite, 1 très grand lit (vue sur la montagne)",
+            "Type": "Suite",
+            "BaseRate": 234.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "tv" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 King Bed (City View)",
+            "Description_fr": "Chambre Deluxe, 1 très grand lit (vue ville)",
+            "Type": "Deluxe Room",
+            "BaseRate": 146.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower" ]
+          },
+          {
+            "Description": "Standard Room, 1 King Bed (Waterfront View)",
+            "Description_fr": "Chambre Standard, 1 très grand lit (vue sur le front de mer)",
+            "Type": "Standard Room",
+            "BaseRate": 121.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower", "vcr/dvd" ]
+          },
+          {
+            "Description": "Standard Room, 2 Double Beds (City View)",
+            "Description_fr": "Chambre Standard, 2 lits doubles (vue ville)",
+            "Type": "Standard Room",
+            "BaseRate": 128.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "suite", "coffee maker", "jacuzzi tub" ]
+          }
+        ]
+      },
+      {
+        "HotelId": "10",
+        "HotelName": "Countryside Hotel",
+        "Description": "Save up to 50% off traditional hotels. Free WiFi, great location near downtown, full kitchen, washer & dryer, 24\/7 support, bowling alley, fitness center and more.",
+        "Description_fr": "Économisez jusqu'à 50% sur les hôtels traditionnels. WiFi gratuit, très bien situé près du centre-ville, cuisine complète, laveuse & sécheuse, support 24\/7, bowling, centre de fitness et plus encore.",
+        "Category": "Extended-Stay",
+        "Tags": [ "24-hour front desk service", "laundry service", "free wifi" ],
+        "ParkingIncluded": true,
+        "IsDeleted": false,
+        "LastRenovationDate": "2019-09-06T00:00:00Z",
+        "Rating": 2.70,
+        "Address": {
+          "StreetAddress": "6910 Fayetteville Rd",
+          "City": "Durham",
+          "StateProvince": "NC",
+          "PostalCode": "27713",
+          "Country": "USA"
+        },
+        "Location": {
+          "type": "Point",
+          "coordinates": [ -78.940483, 35.904160 ]
+        },
+        "Rooms": [
+          {
+            "Description": "Suite, 1 King Bed (Amenities)",
+            "Description_fr": "Suite, 1 très grand lit (Services)",
+            "Type": "Suite",
+            "BaseRate": 244.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "coffee maker" ]
+          },
+          {
+            "Description": "Budget Room, 1 Queen Bed (Amenities)",
+            "Description_fr": "Chambre Économique, 1 grand lit (Services)",
+            "Type": "Budget Room",
+            "BaseRate": 76.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "coffee maker" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Double Beds (Cityside)",
+            "Description_fr": "Chambre Deluxe, 2 lits doubles (Cityside)",
+            "Type": "Deluxe Room",
+            "BaseRate": 145.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "vcr/dvd", "coffee maker" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 King Bed (Waterfront View)",
+            "Description_fr": "Chambre Deluxe, 1 très grand lit (vue sur le front de mer)",
+            "Type": "Deluxe Room",
+            "BaseRate": 167.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "suite", "bathroom shower" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Queen Beds (Amenities)",
+            "Description_fr": "Chambre Deluxe, 2 grands lits (Services)",
+            "Type": "Deluxe Room",
+            "BaseRate": 150.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "tv", "bathroom shower", "vcr/dvd" ]
+          },
+          {
+            "Description": "Suite, 2 Queen Beds (Cityside)",
+            "Description_fr": "Suite, 2 grands lits (côté ville)",
+            "Type": "Suite",
+            "BaseRate": 238.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": true,
+            "Tags": [ "tv" ]
+          },
+          {
+            "Description": "Suite, 2 Queen Beds (Amenities)",
+            "Description_fr": "Suite, 2 grands lits (Services)",
+            "Type": "Suite",
+            "BaseRate": 256.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": true,
+            "Tags": [ "suite" ]
+          },
+          {
+            "Description": "Budget Room, 1 Queen Bed (City View)",
+            "Description_fr": "Chambre Économique, 1 grand lit (vue sur la ville)",
+            "Type": "Budget Room",
+            "BaseRate": 64.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "bathroom shower", "jacuzzi tub" ]
+          },
+          {
+            "Description": "Standard Room, 1 King Bed (City View)",
+            "Description_fr": "Chambre Standard, 1 très grand lit (vue ville)",
+            "Type": "Standard Room",
+            "BaseRate": 122.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "Room Tags", "coffee maker" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Double Beds (Cityside)",
+            "Description_fr": "Chambre Deluxe, 2 lits doubles (Cityside)",
+            "Type": "Deluxe Room",
+            "BaseRate": 142.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "bathroom shower", "jacuzzi tub" ]
+          },
+          {
+            "Description": "Standard Room, 2 Queen Beds (Mountain View)",
+            "Description_fr": "Chambre Standard, 2 grands lits (Mountain View)",
+            "Type": "Standard Room",
+            "BaseRate": 117.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "tv", "jacuzzi tub" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Queen Beds (Amenities)",
+            "Description_fr": "Chambre Deluxe, 2 grands lits (Services)",
+            "Type": "Deluxe Room",
+            "BaseRate": 129.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "coffee maker", "coffee maker" ]
+          }
+        ]
+      },
+      {
+        "HotelId": "11",
+        "HotelName": "Royal Cottage Resort",
+        "Description": "Your home away from home. Brand new fully equipped premium rooms, fast WiFi, full kitchen, washer & dryer, fitness center. Inner courtyard includes water features and outdoor seating. All units include fireplaces and small outdoor balconies. Pets accepted.",
+        "Description_fr": "Votre maison loin de chez vous. Flambant neuf chambres Premium entièrement équipées, WiFi rapide, cuisine complète, laveuse & sécheuse, centre de fitness. La cour intérieure comprend des points d'eau et des sièges à l'extérieur. Toutes les unités comprennent des cheminées et de petits balcons extérieurs. Animaux acceptés.",
+        "Category": "Extended-Stay",
+        "Tags": [ "free wifi", "free parking", "24-hour front desk service" ],
+        "ParkingIncluded": true,
+        "IsDeleted": false,
+        "LastRenovationDate": "2023-11-26T00:00:00Z",
+        "Rating": 2.50,
+        "Address": {
+          "StreetAddress": "22422 29th Dr SE",
+          "City": "Bothell",
+          "StateProvince": "WA",
+          "PostalCode": "98021",
+          "Country": "USA"
+        },
+        "Location": {
+          "type": "Point",
+          "coordinates": [ -122.196700, 47.794540 ]
+        },
+        "Rooms": [
+          {
+            "Description": "Deluxe Room, 1 Queen Bed (Waterfront View)",
+            "Description_fr": "Chambre Deluxe, 1 grand lit (vue sur le front de mer)",
+            "Type": "Deluxe Room",
+            "BaseRate": 144.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "coffee maker", "tv", "coffee maker" ]
+          },
+          {
+            "Description": "Suite, 2 Queen Beds (Mountain View)",
+            "Description_fr": "Suite, 2 grands lits (vue sur la montagne)",
+            "Type": "Suite",
+            "BaseRate": 248.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": true,
+            "Tags": [ "suite", "bathroom shower" ]
+          },
+          {
+            "Description": "Suite, 2 Double Beds (Mountain View)",
+            "Description_fr": "Suite, 2 lits doubles (vue sur la montagne)",
+            "Type": "Suite",
+            "BaseRate": 229.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "tv", "tv", "coffee maker" ]
+          },
+          {
+            "Description": "Budget Room, 2 Queen Beds (City View)",
+            "Description_fr": "Chambre Économique, 2 grands lits (vue sur la ville)",
+            "Type": "Budget Room",
+            "BaseRate": 84.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "vcr/dvd" ]
+          },
+          {
+            "Description": "Standard Room, 2 Queen Beds (Mountain View)",
+            "Description_fr": "Chambre Standard, 2 grands lits (Mountain View)",
+            "Type": "Standard Room",
+            "BaseRate": 103.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd" ]
+          },
+          {
+            "Description": "Budget Room, 2 Double Beds (City View)",
+            "Description_fr": "Chambre Économique, 2 lits doubles (vue sur la ville)",
+            "Type": "Budget Room",
+            "BaseRate": 61.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "bathroom shower" ]
+          },
+          {
+            "Description": "Suite, 2 Double Beds (City View)",
+            "Description_fr": "Suite, 2 lits doubles (vue sur la ville)",
+            "Type": "Suite",
+            "BaseRate": 248.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd", "bathroom shower" ]
+          },
+          {
+            "Description": "Suite, 2 Double Beds (Cityside)",
+            "Description_fr": "Suite, 2 lits doubles (côté ville)",
+            "Type": "Suite",
+            "BaseRate": 239.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "tv" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Double Beds (Waterfront View)",
+            "Description_fr": "Chambre Deluxe, 2 lits doubles (Waterfront View)",
+            "Type": "Deluxe Room",
+            "BaseRate": 132.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "suite", "vcr/dvd", "tv" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Double Beds (Cityside)",
+            "Description_fr": "Chambre Deluxe, 2 lits doubles (Cityside)",
+            "Type": "Deluxe Room",
+            "BaseRate": 144.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "tv" ]
+          },
+          {
+            "Description": "Budget Room, 2 Queen Beds (City View)",
+            "Description_fr": "Chambre Économique, 2 grands lits (vue sur la ville)",
+            "Type": "Budget Room",
+            "BaseRate": 98.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower", "vcr/dvd" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (Cityside)",
+            "Description_fr": "Suite, 1 très grand lit (côté ville)",
+            "Type": "Suite",
+            "BaseRate": 263.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "jacuzzi tub", "bathroom shower" ]
+          },
+          {
+            "Description": "Budget Room, 1 Queen Bed (Waterfront View)",
+            "Description_fr": "Chambre Économique, 1 grand lit (vue sur le front de mer)",
+            "Type": "Budget Room",
+            "BaseRate": 83.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "vcr/dvd" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (Mountain View)",
+            "Description_fr": "Suite, 1 très grand lit (vue sur la montagne)",
+            "Type": "Suite",
+            "BaseRate": 241.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "jacuzzi tub", "suite" ]
+          },
+          {
+            "Description": "Suite, 1 Queen Bed (City View)",
+            "Description_fr": "Suite, 1 grand lit (vue sur la ville)",
+            "Type": "Suite",
+            "BaseRate": 242.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower", "tv", "vcr/dvd" ]
+          }
+        ]
+      },
+      {
+        "HotelId": "12",
+        "HotelName": "Winter Panorama Resort",
+        "Description": "Plenty of great skiing, outdoor ice skating, sleigh rides, tubing and snow biking. Yoga, group exercise classes and outdoor hockey are available year-round, plus numerous options for shopping as well as great spa services. Newly-renovated with large rooms, free 24-hr airport shuttle & a new restaurant. Rooms\/suites offer mini-fridges & 49-inch HDTVs.",
+        "Description_fr": "Beaucoup de superbes pistes de ski, de patinage sur glace en plein air, de promenades en traîneau, de tubes et de vélo de neige. Yoga, cours de groupe et hockey en plein air sont disponibles toute l'année, ainsi que de nombreuses options de shopping ainsi que d'excellents services de spa. Récemment rénové, avec de grandes chambres, une navette gratuite de 24 heures par aéroport et un nouveau restaurant. Les chambres\/suites offrent des mini-frigos et des TVHD de 49 pouces.",
+        "Category": "Resort and Spa",
+        "Tags": [ "restaurant", "bar", "pool" ],
+        "ParkingIncluded": false,
+        "IsDeleted": false,
+        "LastRenovationDate": "2022-09-16T00:00:00Z",
+        "Rating": 4.50,
+        "Address": {
+          "StreetAddress": "9025 SW Hillman Ct",
+          "City": "Wilsonville",
+          "StateProvince": "OR",
+          "PostalCode": "97070",
+          "Country": "USA"
+        },
+        "Location": {
+          "type": "Point",
+          "coordinates": [ -122.770576, 45.322392 ]
+        },
+        "Rooms": [
+          {
+            "Description": "Deluxe Room, 1 King Bed (Cityside)",
+            "Description_fr": "Chambre Deluxe, 1 très grand lit (Cityside)",
+            "Type": "Deluxe Room",
+            "BaseRate": 144.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "coffee maker", "suite", "suite" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 Queen Bed (Waterfront View)",
+            "Description_fr": "Chambre Deluxe, 1 grand lit (vue sur le front de mer)",
+            "Type": "Deluxe Room",
+            "BaseRate": 168.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "jacuzzi tub", "coffee maker" ]
+          },
+          {
+            "Description": "Standard Room, 2 Double Beds (Waterfront View)",
+            "Description_fr": "Chambre Standard, 2 lits doubles (vue sur le front de mer)",
+            "Type": "Standard Room",
+            "BaseRate": 110.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "tv", "tv" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 Queen Bed (City View)",
+            "Description_fr": "Chambre Deluxe, 1 grand lit (vue ville)",
+            "Type": "Deluxe Room",
+            "BaseRate": 141.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "vcr/dvd" ]
+          },
+          {
+            "Description": "Standard Room, 2 Queen Beds (Amenities)",
+            "Description_fr": "Chambre Standard, 2 grands lits (Services)",
+            "Type": "Standard Room",
+            "BaseRate": 131.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower", "tv" ]
+          },
+          {
+            "Description": "Standard Room, 1 Queen Bed (Cityside)",
+            "Description_fr": "Chambre Standard, 1 grand lit (côté ville)",
+            "Type": "Standard Room",
+            "BaseRate": 126.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Double Beds (Waterfront View)",
+            "Description_fr": "Chambre Deluxe, 2 lits doubles (Waterfront View)",
+            "Type": "Deluxe Room",
+            "BaseRate": 166.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "coffee maker" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Queen Beds (Mountain View)",
+            "Description_fr": "Chambre Deluxe, 2 grands lits (Mountain View)",
+            "Type": "Deluxe Room",
+            "BaseRate": 154.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": true,
+            "Tags": [ "Room Tags" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (Amenities)",
+            "Description_fr": "Suite, 1 très grand lit (Services)",
+            "Type": "Suite",
+            "BaseRate": 231.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd" ]
+          },
+          {
+            "Description": "Suite, 1 Queen Bed (Mountain View)",
+            "Description_fr": "Suite, 1 grand lit (vue sur la montagne)",
+            "Type": "Suite",
+            "BaseRate": 246.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "jacuzzi tub", "bathroom shower", "tv" ]
+          },
+          {
+            "Description": "Budget Room, 1 Queen Bed (Amenities)",
+            "Description_fr": "Chambre Économique, 1 grand lit (Services)",
+            "Type": "Budget Room",
+            "BaseRate": 66.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "jacuzzi tub", "tv" ]
+          },
+          {
+            "Description": "Budget Room, 1 King Bed (Mountain View)",
+            "Description_fr": "Chambre Économique, 1 très grand lit (Mountain View)",
+            "Type": "Budget Room",
+            "BaseRate": 80.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "Room Tags", "coffee maker" ]
+          },
+          {
+            "Description": "Budget Room, 1 King Bed (City View)",
+            "Description_fr": "Chambre Économique, 1 très grand lit (vue sur la ville)",
+            "Type": "Budget Room",
+            "BaseRate": 64.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "tv", "jacuzzi tub", "tv" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 Queen Bed (City View)",
+            "Description_fr": "Chambre Deluxe, 1 grand lit (vue ville)",
+            "Type": "Deluxe Room",
+            "BaseRate": 156.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "tv" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 Queen Bed (Waterfront View)",
+            "Description_fr": "Chambre Deluxe, 1 grand lit (vue sur le front de mer)",
+            "Type": "Deluxe Room",
+            "BaseRate": 133.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "jacuzzi tub" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (City View)",
+            "Description_fr": "Suite, 1 très grand lit (vue sur la ville)",
+            "Type": "Suite",
+            "BaseRate": 257.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "Room Tags" ]
+          },
+          {
+            "Description": "Standard Room, 2 Double Beds (Mountain View)",
+            "Description_fr": "Chambre Standard, 2 lits doubles (Mountain View)",
+            "Type": "Standard Room",
+            "BaseRate": 103.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "vcr/dvd", "bathroom shower", "jacuzzi tub" ]
+          },
+          {
+            "Description": "Standard Room, 2 Queen Beds (Waterfront View)",
+            "Description_fr": "Chambre Standard, 2 grands lits (vue sur le front de mer)",
+            "Type": "Standard Room",
+            "BaseRate": 126.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "Room Tags" ]
+          },
+          {
+            "Description": "Standard Room, 2 Queen Beds (Mountain View)",
+            "Description_fr": "Chambre Standard, 2 grands lits (Mountain View)",
+            "Type": "Standard Room",
+            "BaseRate": 120.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "suite", "suite" ]
+          }
+        ]
+      },
+      {
+        "HotelId": "13",
+        "HotelName": "Luxury Lion Resort",
+        "Description": "Unmatched Luxury. Visit our downtown hotel to indulge in luxury accommodations. Moments from the stadium and transportation hubs, we feature the best in convenience and comfort.",
+        "Description_fr": "Un luxe incomparable. Visitez notre hôtel du centre-ville pour profiter d'un hébergement de luxe. À quelques minutes du stade et des centres de transport, nous vous proposons le meilleur en matière de commodité et de confort.",
+        "Category": "Luxury",
+        "Tags": [ "bar", "concierge", "restaurant" ],
+        "ParkingIncluded": false,
+        "IsDeleted": false,
+        "LastRenovationDate": "2020-03-18T00:00:00Z",
+        "Rating": 4.10,
+        "Address": {
+          "StreetAddress": "3 Cityplace Dr",
+          "City": "St. Louis",
+          "StateProvince": "MO",
+          "PostalCode": "63141",
+          "Country": "USA"
+        },
+        "Location": {
+          "type": "Point",
+          "coordinates": [ -90.440810, 38.672190 ]
+        },
+        "Rooms": [
+          {
+            "Description": "Standard Room, 1 King Bed (Mountain View)",
+            "Description_fr": "Chambre Standard, 1 très grand lit (vue montagne)",
+            "Type": "Standard Room",
+            "BaseRate": 114.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "jacuzzi tub" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Double Beds (Amenities)",
+            "Description_fr": "Chambre Deluxe, 2 lits doubles (Services)",
+            "Type": "Deluxe Room",
+            "BaseRate": 145.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "jacuzzi tub" ]
+          },
+          {
+            "Description": "Standard Room, 2 Queen Beds (Waterfront View)",
+            "Description_fr": "Chambre Standard, 2 grands lits (vue sur le front de mer)",
+            "Type": "Standard Room",
+            "BaseRate": 133.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": true,
+            "Tags": [ "Room Tags", "jacuzzi tub", "bathroom shower" ]
+          },
+          {
+            "Description": "Suite, 2 Double Beds (City View)",
+            "Description_fr": "Suite, 2 lits doubles (vue sur la ville)",
+            "Type": "Suite",
+            "BaseRate": 242.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "tv", "suite", "vcr/dvd" ]
+          },
+          {
+            "Description": "Standard Room, 1 King Bed (Amenities)",
+            "Description_fr": "Chambre Standard, 1 très grand lit (Services)",
+            "Type": "Standard Room",
+            "BaseRate": 103.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "tv" ]
+          },
+          {
+            "Description": "Suite, 2 Double Beds (Amenities)",
+            "Description_fr": "Suite, 2 lits doubles (Services)",
+            "Type": "Suite",
+            "BaseRate": 257.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "tv", "vcr/dvd", "coffee maker" ]
+          },
+          {
+            "Description": "Standard Room, 1 King Bed (Mountain View)",
+            "Description_fr": "Chambre Standard, 1 très grand lit (vue montagne)",
+            "Type": "Standard Room",
+            "BaseRate": 136.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "jacuzzi tub", "tv" ]
+          },
+          {
+            "Description": "Standard Room, 2 Queen Beds (Waterfront View)",
+            "Description_fr": "Chambre Standard, 2 grands lits (vue sur le front de mer)",
+            "Type": "Standard Room",
+            "BaseRate": 137.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "jacuzzi tub" ]
+          },
+          {
+            "Description": "Standard Room, 2 Double Beds (Cityside)",
+            "Description_fr": "Chambre Standard, 2 lits doubles (côté ville)",
+            "Type": "Standard Room",
+            "BaseRate": 128.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd", "coffee maker", "suite" ]
+          },
+          {
+            "Description": "Budget Room, 2 Double Beds (Cityside)",
+            "Description_fr": "Chambre Économique, 2 lits doubles (Cityside)",
+            "Type": "Budget Room",
+            "BaseRate": 65.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "suite" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Double Beds (City View)",
+            "Description_fr": "Chambre Deluxe, 2 lits doubles (vue ville)",
+            "Type": "Deluxe Room",
+            "BaseRate": 163.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "suite" ]
+          },
+          {
+            "Description": "Suite, 2 Queen Beds (Amenities)",
+            "Description_fr": "Suite, 2 grands lits (Services)",
+            "Type": "Suite",
+            "BaseRate": 262.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "coffee maker" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 Queen Bed (Cityside)",
+            "Description_fr": "Chambre Deluxe, 1 grand lit (côté ville)",
+            "Type": "Deluxe Room",
+            "BaseRate": 142.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "coffee maker" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (Amenities)",
+            "Description_fr": "Suite, 1 très grand lit (Services)",
+            "Type": "Suite",
+            "BaseRate": 256.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "bathroom shower", "suite" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (Waterfront View)",
+            "Description_fr": "Suite, 1 très grand lit (vue sur le front de mer)",
+            "Type": "Suite",
+            "BaseRate": 254.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "bathroom shower", "jacuzzi tub" ]
+          },
+          {
+            "Description": "Standard Room, 1 Queen Bed (Cityside)",
+            "Description_fr": "Chambre Standard, 1 grand lit (côté ville)",
+            "Type": "Standard Room",
+            "BaseRate": 103.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "jacuzzi tub" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (Cityside)",
+            "Description_fr": "Suite, 1 très grand lit (côté ville)",
+            "Type": "Suite",
+            "BaseRate": 243.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "suite" ]
+          }
+        ]
+      },
+      {
+        "HotelId": "14",
+        "HotelName": "Twin Vortex Hotel",
+        "Description": "New experience in the making. Be the first to experience the luxury of the Twin Vortex. Reserve one of our newly-renovated guest rooms today.",
+        "Description_fr": "Nouvelle expérience dans la fabrication. Soyez les premiers à découvrir le luxe du Twin vortex. Réservez une de nos chambres récemment rénovées aujourd'hui.",
+        "Category": "Luxury",
+        "Tags": [ "bar", "restaurant", "concierge" ],
+        "ParkingIncluded": false,
+        "IsDeleted": false,
+        "LastRenovationDate": "2023-11-14T00:00:00Z",
+        "Rating": 4.40,
+        "Address": {
+          "StreetAddress": "1950 N Stemmons Fw",
+          "City": "Dallas",
+          "StateProvince": "TX",
+          "PostalCode": "75207",
+          "Country": "USA"
+        },
+        "Location": {
+          "type": "Point",
+          "coordinates": [ -96.819412, 32.800762 ]
+        },
+        "Rooms": [
+          {
+            "Description": "Budget Room, 1 King Bed (Cityside)",
+            "Description_fr": "Chambre Économique, 1 très grand lit (côté ville)",
+            "Type": "Budget Room",
+            "BaseRate": 62.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "suite", "tv" ]
+          },
+          {
+            "Description": "Standard Room, 2 Queen Beds (Cityside)",
+            "Description_fr": "Chambre Standard, 2 grands lits (côté ville)",
+            "Type": "Standard Room",
+            "BaseRate": 107.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd", "coffee maker", "jacuzzi tub" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 Queen Bed (Amenities)",
+            "Description_fr": "Chambre Deluxe, 1 grand lit (Services)",
+            "Type": "Deluxe Room",
+            "BaseRate": 138.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower" ]
+          },
+          {
+            "Description": "Standard Room, 2 Double Beds (Cityside)",
+            "Description_fr": "Chambre Standard, 2 lits doubles (côté ville)",
+            "Type": "Standard Room",
+            "BaseRate": 126.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "tv", "jacuzzi tub", "suite" ]
+          },
+          {
+            "Description": "Budget Room, 2 Double Beds (Mountain View)",
+            "Description_fr": "Chambre Économique, 2 lits doubles (Mountain View)",
+            "Type": "Budget Room",
+            "BaseRate": 71.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (Waterfront View)",
+            "Description_fr": "Suite, 1 très grand lit (vue sur le front de mer)",
+            "Type": "Suite",
+            "BaseRate": 249.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower" ]
+          },
+          {
+            "Description": "Suite, 2 Queen Beds (Amenities)",
+            "Description_fr": "Suite, 2 grands lits (Services)",
+            "Type": "Suite",
+            "BaseRate": 257.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": true,
+            "Tags": [ "jacuzzi tub" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Double Beds (Amenities)",
+            "Description_fr": "Chambre Deluxe, 2 lits doubles (Services)",
+            "Type": "Deluxe Room",
+            "BaseRate": 151.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "Room Tags", "tv" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 King Bed (Amenities)",
+            "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
+            "Type": "Deluxe Room",
+            "BaseRate": 149.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower", "jacuzzi tub" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (Amenities)",
+            "Description_fr": "Suite, 1 très grand lit (Services)",
+            "Type": "Suite",
+            "BaseRate": 258.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "coffee maker" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 King Bed (Waterfront View)",
+            "Description_fr": "Chambre Deluxe, 1 très grand lit (vue sur le front de mer)",
+            "Type": "Deluxe Room",
+            "BaseRate": 129.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd" ]
+          },
+          {
+            "Description": "Standard Room, 2 Queen Beds (City View)",
+            "Description_fr": "Chambre Standard, 2 grands lits (vue sur la ville)",
+            "Type": "Standard Room",
+            "BaseRate": 109.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower", "vcr/dvd" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 King Bed (Amenities)",
+            "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
+            "Type": "Deluxe Room",
+            "BaseRate": 161.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "bathroom shower", "coffee maker" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (Waterfront View)",
+            "Description_fr": "Suite, 1 très grand lit (vue sur le front de mer)",
+            "Type": "Suite",
+            "BaseRate": 235.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "bathroom shower", "bathroom shower" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (City View)",
+            "Description_fr": "Suite, 1 très grand lit (vue sur la ville)",
+            "Type": "Suite",
+            "BaseRate": 260.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "tv" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Queen Beds (Amenities)",
+            "Description_fr": "Chambre Deluxe, 2 grands lits (Services)",
+            "Type": "Deluxe Room",
+            "BaseRate": 151.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": true,
+            "Tags": [ "suite" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 King Bed (Cityside)",
+            "Description_fr": "Chambre Deluxe, 1 très grand lit (Cityside)",
+            "Type": "Deluxe Room",
+            "BaseRate": 148.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "coffee maker", "bathroom shower", "vcr/dvd" ]
+          },
+          {
+            "Description": "Standard Room, 1 King Bed (Cityside)",
+            "Description_fr": "Chambre Standard, 1 très grand lit (côté ville)",
+            "Type": "Standard Room",
+            "BaseRate": 118.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "jacuzzi tub", "coffee maker" ]
+          }
+        ]
+      },
+      {
+        "HotelId": "15",
+        "HotelName": "By the Market Hotel",
+        "Description": "Book now and Save up to 30%. Central location. Walking distance from the Empire State Building & Times Square, in the Chelsea neighborhood. Brand new rooms. Impeccable service.",
+        "Description_fr": "Réservez dès maintenant et économisez jusqu'à 30%. Emplacement central. A quelques pas de l'Empire State Building & Times Square, dans le quartier de Chelsea. Chambres flambant neuves. Service impeccable.",
+        "Category": "Budget",
+        "Tags": [ "coffee in lobby", "free wifi", "24-hour front desk service" ],
+        "ParkingIncluded": true,
+        "IsDeleted": false,
+        "LastRenovationDate": "2023-10-30T00:00:00Z",
+        "Rating": 3.30,
+        "Address": {
+          "StreetAddress": "11 Times Sq",
+          "City": "New York",
+          "StateProvince": "NY",
+          "PostalCode": "10036",
+          "Country": "USA"
+        },
+        "Location": {
+          "type": "Point",
+          "coordinates": [ -73.989792, 40.756729 ]
+        },
+        "Rooms": [
+          {
+            "Description": "Standard Room, 1 King Bed (Waterfront View)",
+            "Description_fr": "Chambre Standard, 1 très grand lit (vue sur le front de mer)",
+            "Type": "Standard Room",
+            "BaseRate": 105.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "tv", "vcr/dvd", "suite" ]
+          },
+          {
+            "Description": "Budget Room, 2 Double Beds (City View)",
+            "Description_fr": "Chambre Économique, 2 lits doubles (vue sur la ville)",
+            "Type": "Budget Room",
+            "BaseRate": 80.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "tv" ]
+          },
+          {
+            "Description": "Standard Room, 1 King Bed (Mountain View)",
+            "Description_fr": "Chambre Standard, 1 très grand lit (vue montagne)",
+            "Type": "Standard Room",
+            "BaseRate": 130.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "coffee maker", "bathroom shower", "vcr/dvd" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (Cityside)",
+            "Description_fr": "Suite, 1 très grand lit (côté ville)",
+            "Type": "Suite",
+            "BaseRate": 259.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower", "vcr/dvd" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Queen Beds (Amenities)",
+            "Description_fr": "Chambre Deluxe, 2 grands lits (Services)",
+            "Type": "Deluxe Room",
+            "BaseRate": 135.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "vcr/dvd" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 King Bed (City View)",
+            "Description_fr": "Chambre Deluxe, 1 très grand lit (vue ville)",
+            "Type": "Deluxe Room",
+            "BaseRate": 138.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower" ]
+          },
+          {
+            "Description": "Suite, 1 Queen Bed (Mountain View)",
+            "Description_fr": "Suite, 1 grand lit (vue sur la montagne)",
+            "Type": "Suite",
+            "BaseRate": 264.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "coffee maker", "vcr/dvd" ]
+          },
+          {
+            "Description": "Suite, 2 Queen Beds (Waterfront View)",
+            "Description_fr": "Suite, 2 grands lits (vue sur le front de mer)",
+            "Type": "Suite",
+            "BaseRate": 260.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "tv", "tv" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Queen Beds (City View)",
+            "Description_fr": "Chambre Deluxe, 2 grands lits (vue ville)",
+            "Type": "Deluxe Room",
+            "BaseRate": 139.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "Room Tags", "suite" ]
+          },
+          {
+            "Description": "Budget Room, 2 Queen Beds (Cityside)",
+            "Description_fr": "Chambre Économique, 2 grands lits (côté ville)",
+            "Type": "Budget Room",
+            "BaseRate": 65.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": true,
+            "Tags": [ "bathroom shower", "vcr/dvd" ]
+          },
+          {
+            "Description": "Standard Room, 1 Queen Bed (Waterfront View)",
+            "Description_fr": "Chambre Standard, 1 grand lit (vue sur le front de mer)",
+            "Type": "Standard Room",
+            "BaseRate": 124.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "Room Tags", "bathroom shower", "suite" ]
+          },
+          {
+            "Description": "Standard Room, 1 King Bed (City View)",
+            "Description_fr": "Chambre Standard, 1 très grand lit (vue ville)",
+            "Type": "Standard Room",
+            "BaseRate": 131.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "tv", "bathroom shower", "vcr/dvd" ]
+          },
+          {
+            "Description": "Suite, 1 Queen Bed (Amenities)",
+            "Description_fr": "Suite, 1 grand lit (Services)",
+            "Type": "Suite",
+            "BaseRate": 252.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "coffee maker", "vcr/dvd", "coffee maker" ]
+          },
+          {
+            "Description": "Standard Room, 1 King Bed (Waterfront View)",
+            "Description_fr": "Chambre Standard, 1 très grand lit (vue sur le front de mer)",
+            "Type": "Standard Room",
+            "BaseRate": 124.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "jacuzzi tub" ]
+          },
+          {
+            "Description": "Suite, 2 Double Beds (City View)",
+            "Description_fr": "Suite, 2 lits doubles (vue sur la ville)",
+            "Type": "Suite",
+            "BaseRate": 263.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower", "suite", "suite" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Queen Beds (Mountain View)",
+            "Description_fr": "Chambre Deluxe, 2 grands lits (Mountain View)",
+            "Type": "Deluxe Room",
+            "BaseRate": 154.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": true,
+            "Tags": [ "bathroom shower" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (Waterfront View)",
+            "Description_fr": "Suite, 1 très grand lit (vue sur le front de mer)",
+            "Type": "Suite",
+            "BaseRate": 262.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "suite", "vcr/dvd", "vcr/dvd" ]
+          }
+        ]
+      },
+      {
+        "HotelId": "16",
+        "HotelName": "Double Sanctuary Resort",
+        "Description": "5 star Luxury Hotel - Biggest Rooms in the city. #1 Hotel in the area listed by Traveler magazine. Free WiFi, Flexible check in\/out, Fitness Center & espresso in room.",
+        "Description_fr": "5 star hôtel de luxe-plus grandes chambres de la ville.  #1 hôtel dans les environs énumérés par Traveler magazine. WiFi gratuit, Check-in\/out flexible, centre de fitness et espresso dans la chambre.",
+        "Category": "Resort and Spa",
+        "Tags": [ "view", "pool", "restaurant", "bar", "continental breakfast" ],
+        "ParkingIncluded": true,
+        "IsDeleted": false,
+        "LastRenovationDate": "2019-08-05T00:00:00Z",
+        "Rating": 4.20,
+        "Address": {
+          "StreetAddress": "2211 Elliott Ave",
+          "City": "Seattle",
+          "StateProvince": "WA",
+          "PostalCode": "98121",
+          "Country": "USA"
+        },
+        "Location": {
+          "type": "Point",
+          "coordinates": [ -122.347771, 47.611660 ]
+        },
+        "Rooms": [
+          {
+            "Description": "Suite, 2 Queen Beds (Amenities)",
+            "Description_fr": "Suite, 2 grands lits (Services)",
+            "Type": "Suite",
+            "BaseRate": 254.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "suite" ]
+          },
+          {
+            "Description": "Standard Room, 1 King Bed (Amenities)",
+            "Description_fr": "Chambre Standard, 1 très grand lit (Services)",
+            "Type": "Standard Room",
+            "BaseRate": 124.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "suite" ]
+          },
+          {
+            "Description": "Budget Room, 2 Double Beds (Waterfront View)",
+            "Description_fr": "Chambre Économique, 2 lits doubles (vue sur le front de mer)",
+            "Type": "Budget Room",
+            "BaseRate": 68.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "suite", "vcr/dvd" ]
+          },
+          {
+            "Description": "Standard Room, 1 Queen Bed (Mountain View)",
+            "Description_fr": "Chambre Standard, 1 grand lit (vue montagne)",
+            "Type": "Standard Room",
+            "BaseRate": 126.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd" ]
+          },
+          {
+            "Description": "Standard Room, 2 Double Beds (Mountain View)",
+            "Description_fr": "Chambre Standard, 2 lits doubles (Mountain View)",
+            "Type": "Standard Room",
+            "BaseRate": 108.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "suite", "coffee maker" ]
+          },
+          {
+            "Description": "Standard Room, 1 King Bed (Mountain View)",
+            "Description_fr": "Chambre Standard, 1 très grand lit (vue montagne)",
+            "Type": "Standard Room",
+            "BaseRate": 136.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "Room Tags" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (Cityside)",
+            "Description_fr": "Suite, 1 très grand lit (côté ville)",
+            "Type": "Suite",
+            "BaseRate": 260.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "jacuzzi tub", "coffee maker" ]
+          },
+          {
+            "Description": "Standard Room, 1 Queen Bed (Cityside)",
+            "Description_fr": "Chambre Standard, 1 grand lit (côté ville)",
+            "Type": "Standard Room",
+            "BaseRate": 133.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "jacuzzi tub", "bathroom shower" ]
+          },
+          {
+            "Description": "Budget Room, 1 Queen Bed (City View)",
+            "Description_fr": "Chambre Économique, 1 grand lit (vue sur la ville)",
+            "Type": "Budget Room",
+            "BaseRate": 71.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd", "suite" ]
+          },
+          {
+            "Description": "Budget Room, 1 Queen Bed (City View)",
+            "Description_fr": "Chambre Économique, 1 grand lit (vue sur la ville)",
+            "Type": "Budget Room",
+            "BaseRate": 97.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "coffee maker", "suite" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Queen Beds (Mountain View)",
+            "Description_fr": "Chambre Deluxe, 2 grands lits (Mountain View)",
+            "Type": "Deluxe Room",
+            "BaseRate": 162.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": true,
+            "Tags": [ "jacuzzi tub", "tv", "suite" ]
+          },
+          {
+            "Description": "Budget Room, 1 Queen Bed (Cityside)",
+            "Description_fr": "Chambre Économique, 1 grand lit (côté ville)",
+            "Type": "Budget Room",
+            "BaseRate": 67.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "vcr/dvd", "coffee maker", "coffee maker" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 Queen Bed (City View)",
+            "Description_fr": "Chambre Deluxe, 1 grand lit (vue ville)",
+            "Type": "Deluxe Room",
+            "BaseRate": 138.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "coffee maker", "suite" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 Queen Bed (City View)",
+            "Description_fr": "Chambre Deluxe, 1 grand lit (vue ville)",
+            "Type": "Deluxe Room",
+            "BaseRate": 156.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd", "bathroom shower" ]
+          },
+          {
+            "Description": "Budget Room, 1 Queen Bed (Cityside)",
+            "Description_fr": "Chambre Économique, 1 grand lit (côté ville)",
+            "Type": "Budget Room",
+            "BaseRate": 88.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower", "suite", "tv" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Double Beds (Waterfront View)",
+            "Description_fr": "Chambre Deluxe, 2 lits doubles (Waterfront View)",
+            "Type": "Deluxe Room",
+            "BaseRate": 131.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "vcr/dvd", "tv" ]
+          },
+          {
+            "Description": "Budget Room, 1 King Bed (City View)",
+            "Description_fr": "Chambre Économique, 1 très grand lit (vue sur la ville)",
+            "Type": "Budget Room",
+            "BaseRate": 81.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "Room Tags", "bathroom shower" ]
+          }
+        ]
+      },
+      {
+        "HotelId": "17",
+        "HotelName": "City Skyline Antiquity Hotel",
+        "Description": "In vogue since 1888, the Antiquity Hotel takes you back to bygone era. From the crystal chandeliers that adorn the Green Room, to the arched ceilings of the Grand Hall, the elegance of old New York beckons. Elevate Your Experience. Upgrade to a premiere city skyline view for less, where old world charm combines with dramatic views of the city, local cathedral and midtown.",
+        "Description_fr": "En vogue depuis 1888, l'Antiquity Hotel vous ramène à une époque révolue. Des lustres en cristal qui ornent la Green Room aux plafonds voûtés du Grand Hall, l'élégance du vieux New York embrasse tous les sens. Élevez votre expérience. Passez à une vue exceptionnelle sur les toits de la ville à moindre coût, où le charme du vieux monde se combine avec des vues spectaculaires sur la ville, la cathédrale locale et le centre.",
+        "Category": "Boutique",
+        "Tags": [ "view", "concierge", "bar" ],
+        "ParkingIncluded": false,
+        "IsDeleted": false,
+        "LastRenovationDate": "2015-10-10T00:00:00Z",
+        "Rating": 4.50,
+        "Address": {
+          "StreetAddress": "8th Ave",
+          "City": "New York",
+          "StateProvince": "NY",
+          "PostalCode": "10014",
+          "Country": "USA"
+        },
+        "Location": {
+          "type": "Point",
+          "coordinates": [ -74.003571, 40.738651 ]
+        },
+        "Rooms": [
+          {
+            "Description": "Budget Room, 2 Queen Beds (Waterfront View)",
+            "Description_fr": "Chambre Économique, 2 grands lits (vue sur le front de mer)",
+            "Type": "Budget Room",
+            "BaseRate": 59.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "tv", "suite" ]
+          },
+          {
+            "Description": "Budget Room, 1 King Bed (Cityside)",
+            "Description_fr": "Chambre Économique, 1 très grand lit (côté ville)",
+            "Type": "Budget Room",
+            "BaseRate": 85.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "jacuzzi tub" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Double Beds (Cityside)",
+            "Description_fr": "Chambre Deluxe, 2 lits doubles (Cityside)",
+            "Type": "Deluxe Room",
+            "BaseRate": 145.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "coffee maker", "suite" ]
+          },
+          {
+            "Description": "Suite, 2 Double Beds (Mountain View)",
+            "Description_fr": "Suite, 2 lits doubles (vue sur la montagne)",
+            "Type": "Suite",
+            "BaseRate": 247.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd", "coffee maker" ]
+          },
+          {
+            "Description": "Standard Room, 1 King Bed (City View)",
+            "Description_fr": "Chambre Standard, 1 très grand lit (vue ville)",
+            "Type": "Standard Room",
+            "BaseRate": 118.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "coffee maker" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Queen Beds (City View)",
+            "Description_fr": "Chambre Deluxe, 2 grands lits (vue ville)",
+            "Type": "Deluxe Room",
+            "BaseRate": 144.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "Room Tags", "suite" ]
+          },
+          {
+            "Description": "Budget Room, 1 King Bed (Amenities)",
+            "Description_fr": "Chambre Économique, 1 très grand lit (Services)",
+            "Type": "Budget Room",
+            "BaseRate": 62.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "suite", "bathroom shower" ]
+          },
+          {
+            "Description": "Suite, 2 Queen Beds (Amenities)",
+            "Description_fr": "Suite, 2 grands lits (Services)",
+            "Type": "Suite",
+            "BaseRate": 262.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "tv", "coffee maker" ]
+          },
+          {
+            "Description": "Budget Room, 1 King Bed (Mountain View)",
+            "Description_fr": "Chambre Économique, 1 très grand lit (Mountain View)",
+            "Type": "Budget Room",
+            "BaseRate": 68.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "coffee maker", "jacuzzi tub" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 Queen Bed (Amenities)",
+            "Description_fr": "Chambre Deluxe, 1 grand lit (Services)",
+            "Type": "Deluxe Room",
+            "BaseRate": 147.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Queen Beds (Cityside)",
+            "Description_fr": "Chambre Deluxe, 2 grands lits (Cityside)",
+            "Type": "Deluxe Room",
+            "BaseRate": 131.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "Room Tags" ]
+          },
+          {
+            "Description": "Budget Room, 1 Queen Bed (City View)",
+            "Description_fr": "Chambre Économique, 1 grand lit (vue sur la ville)",
+            "Type": "Budget Room",
+            "BaseRate": 80.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "jacuzzi tub", "bathroom shower" ]
+          },
+          {
+            "Description": "Budget Room, 1 King Bed (Amenities)",
+            "Description_fr": "Chambre Économique, 1 très grand lit (Services)",
+            "Type": "Budget Room",
+            "BaseRate": 72.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "jacuzzi tub" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Queen Beds (Cityside)",
+            "Description_fr": "Chambre Deluxe, 2 grands lits (Cityside)",
+            "Type": "Deluxe Room",
+            "BaseRate": 160.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "jacuzzi tub" ]
+          },
+          {
+            "Description": "Budget Room, 2 Double Beds (Amenities)",
+            "Description_fr": "Chambre Économique, 2 lits doubles (Services)",
+            "Type": "Budget Room",
+            "BaseRate": 84.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd", "jacuzzi tub", "bathroom shower" ]
+          },
+          {
+            "Description": "Suite, 2 Queen Beds (City View)",
+            "Description_fr": "Suite, 2 grands lits (vue sur la ville)",
+            "Type": "Suite",
+            "BaseRate": 257.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": false,
+            "Tags": [ "vcr/dvd", "jacuzzi tub", "suite" ]
+          },
+          {
+            "Description": "Budget Room, 1 King Bed (Amenities)",
+            "Description_fr": "Chambre Économique, 1 très grand lit (Services)",
+            "Type": "Budget Room",
+            "BaseRate": 97.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "bathroom shower" ]
+          },
+          {
+            "Description": "Suite, 1 Queen Bed (Mountain View)",
+            "Description_fr": "Suite, 1 grand lit (vue sur la montagne)",
+            "Type": "Suite",
+            "BaseRate": 247.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "jacuzzi tub", "suite", "suite" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 King Bed (Amenities)",
+            "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
+            "Type": "Deluxe Room",
+            "BaseRate": 167.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "jacuzzi tub", "suite", "suite" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 King Bed (Cityside)",
+            "Description_fr": "Chambre Deluxe, 1 très grand lit (Cityside)",
+            "Type": "Deluxe Room",
+            "BaseRate": 158.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "vcr/dvd", "jacuzzi tub", "vcr/dvd" ]
+          }
+        ]
+      },
+      {
+        "HotelId": "18",
+        "HotelName": "Ocean Water Resort & Spa",
+        "Description": "New Luxury Hotel for the vacation of a lifetime. Bay views from every room, location near the pier, rooftop pool, waterfront dining & more.",
+        "Description_fr": "Nouvel hôtel de luxe pour des vacances inoubliables. Vue sur la baie depuis chaque chambre, emplacement près de la jetée, piscine sur le toit, restaurant au bord de l'eau et plus encore.",
+        "Category": "Luxury",
+        "Tags": [ "view", "pool", "restaurant" ],
+        "ParkingIncluded": true,
+        "IsDeleted": false,
+        "LastRenovationDate": "2020-11-14T00:00:00Z",
+        "Rating": 4.20,
+        "Address": {
+          "StreetAddress": "5426 Bay Center Dr",
+          "City": "Tampa",
+          "StateProvince": "FL",
+          "PostalCode": "33609",
+          "Country": "USA"
+        },
+        "Location": {
+          "type": "Point",
+          "coordinates": [ -82.537735, 27.943701 ]
+        },
+        "Rooms": [
+          {
+            "Description": "Standard Room, 1 Queen Bed (Cityside)",
+            "Description_fr": "Chambre Standard, 1 grand lit (côté ville)",
+            "Type": "Standard Room",
+            "BaseRate": 102.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower", "suite", "jacuzzi tub" ]
+          },
+          {
+            "Description": "Budget Room, 2 Queen Beds (Cityside)",
+            "Description_fr": "Chambre Économique, 2 grands lits (côté ville)",
+            "Type": "Budget Room",
+            "BaseRate": 89.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": true,
+            "Tags": [ "suite" ]
+          },
+          {
+            "Description": "Standard Room, 2 Double Beds (Waterfront View)",
+            "Description_fr": "Chambre Standard, 2 lits doubles (vue sur le front de mer)",
+            "Type": "Standard Room",
+            "BaseRate": 112.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "tv", "bathroom shower" ]
+          },
+          {
+            "Description": "Suite, 1 Queen Bed (Waterfront View)",
+            "Description_fr": "Suite, 1 grand lit (vue sur le front de mer)",
+            "Type": "Suite",
+            "BaseRate": 258.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "suite", "jacuzzi tub" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 King Bed (Amenities)",
+            "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
+            "Type": "Deluxe Room",
+            "BaseRate": 142.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "Room Tags" ]
+          },
+          {
+            "Description": "Suite, 1 King Bed (City View)",
+            "Description_fr": "Suite, 1 très grand lit (vue sur la ville)",
+            "Type": "Suite",
+            "BaseRate": 263.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "Room Tags", "tv", "suite" ]
+          },
+          {
+            "Description": "Standard Room, 2 Queen Beds (City View)",
+            "Description_fr": "Chambre Standard, 2 grands lits (vue sur la ville)",
+            "Type": "Standard Room",
+            "BaseRate": 109.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": true,
+            "Tags": [ "suite" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 King Bed (Amenities)",
+            "Description_fr": "Chambre Deluxe, 1 très grand lit (Services)",
+            "Type": "Deluxe Room",
+            "BaseRate": 163.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": true,
+            "Tags": [ "vcr/dvd", "jacuzzi tub" ]
+          },
+          {
+            "Description": "Deluxe Room, 2 Queen Beds (Cityside)",
+            "Description_fr": "Chambre Deluxe, 2 grands lits (Cityside)",
+            "Type": "Deluxe Room",
+            "BaseRate": 151.99,
+            "BedOptions": "2 Queen Beds",
+            "SleepsCount": 4,
+            "SmokingAllowed": true,
+            "Tags": [ "Room Tags", "jacuzzi tub", "vcr/dvd" ]
+          },
+          {
+            "Description": "Budget Room, 1 Queen Bed (City View)",
+            "Description_fr": "Chambre Économique, 1 grand lit (vue sur la ville)",
+            "Type": "Budget Room",
+            "BaseRate": 77.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower", "coffee maker" ]
+          },
+          {
+            "Description": "Standard Room, 1 King Bed (City View)",
+            "Description_fr": "Chambre Standard, 1 très grand lit (vue ville)",
+            "Type": "Standard Room",
+            "BaseRate": 126.99,
+            "BedOptions": "1 King Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "Room Tags", "coffee maker" ]
+          },
+          {
+            "Description": "Deluxe Room, 1 Queen Bed (City View)",
+            "Description_fr": "Chambre Deluxe, 1 grand lit (vue ville)",
+            "Type": "Deluxe Room",
+            "BaseRate": 129.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "Room Tags", "tv" ]
+          },
+          {
+            "Description": "Budget Room, 1 Queen Bed (Mountain View)",
+            "Description_fr": "Chambre Économique, 1 grand lit (Mountain View)",
+            "Type": "Budget Room",
+            "BaseRate": 87.99,
+            "BedOptions": "1 Queen Bed",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "jacuzzi tub", "suite" ]
+          },
+          {
+            "Description": "Suite, 2 Double Beds (Cityside)",
+            "Description_fr": "Suite, 2 lits doubles (côté ville)",
+            "Type": "Suite",
+            "BaseRate": 231.99,
+            "BedOptions": "2 Double Beds",
+            "SleepsCount": 2,
+            "SmokingAllowed": false,
+            "Tags": [ "bathroom shower", "coffee maker", "suite" ]
+          }
+        ]
+      }
+    ]
+}

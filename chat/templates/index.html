@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <form id="textForm" method="POST" action="/search_page">
+        {% csrf_token %}
+        <label for="query">Prompt:</label><br>
+        <textarea name="query" id="query" rows="20" cols="80"></textarea>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
