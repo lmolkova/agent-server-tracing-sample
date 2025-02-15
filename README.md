@@ -1,4 +1,4 @@
-# Possible server-side Azure Agents example
+# Server-side Azure Agent mock
 
 Prerequisites:
 
